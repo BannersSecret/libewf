@@ -134,6 +134,7 @@ stamp-h1
 /libbfio
 /libcaes
 /libcdata
+/libcdatetime
 /libcerror
 /libcfile
 /libclocale
